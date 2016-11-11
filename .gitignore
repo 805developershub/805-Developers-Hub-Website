@@ -12,3 +12,8 @@ Thumbs.db
 ######################
 *_log
 *.log
+
+# Jekyll build files #
+######################
+
+_site/
