@@ -1,27 +1,28 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
+# 805 Developers Hub
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+The 805 Developers Hub is a language agnostic meetup for developers of all levels in the 805 area to learn and build software projects together.
 
-## Getting Started
+We meet every other Thursday, so come join us! We want developers who are passionate about learning and committed to growing the developer community. This is an open-ended group to help members meet like-minded collaborators, connect with local tech companies, and produce real projects together. 
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
-* Fork the repo
+As a brand new group, we are open to your ideas for shaping our future meetups, so please share your feedback and get involved in our community!
 
-## Bugs and Issues
+**What to bring:**
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+* (Optional) Your laptop and charger. If you don't have a laptop, you can pair up with someone else who has one and is kind enough to work alongside you.
+* (Optional) A project or coding challenge you're working on. 
+* Great attitude and curious mind!
 
-## Creator
+**Agenda:**
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+7:00 - 7:15   805 Developers Hub Introduction
+7:15 - 7:30   Group Stand-Up
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* Introduce yourself (first & last name)
+* What you're currently working on 
+* What you hope to get out of this meetup and future meetups
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+7:30 - 8:00   Meetup project introduction
 
-## Copyright and License
+8:00 - 9:00  Build!
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+A big thanks to [http://www.hub101.la/](Hub101) for hosting us!
