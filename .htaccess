@@ -1,0 +1,14 @@
+# disable directory browsing
+Options -Indexes
+
+# content security policy 
+Header set Content-Security-Policy "default-src 'self';"
+
+# x-content-type
+X-Content-Type-Options: nosniff
+
+# x-frame-options
+X-Frame-Options: DENY
+
+# Turn on the rewrite engine
+RewriteEngine On
