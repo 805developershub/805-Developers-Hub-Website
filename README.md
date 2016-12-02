@@ -32,7 +32,26 @@ A big thanks to [Hub101](http://www.hub101.la) for hosting us!
 
 **How to contribute:**
 
+There are a few ways you can contribute to the 805 Developers Hub site. If you're a member of the organization, you can do the following:
+
 1. Clone the repository
-  ```
-  $ git clone git@github.com:805developershub/805-Developers-Hub-Website.git
-  ```
+
+```
+$ git clone git@github.com:805developershub/805-Developers-Hub-Website.git
+```
+
+2. Checkout a new branch:
+
+```
+git checkout -b [branch-name]
+```
+
+3. Push the branch to the repository:
+
+```
+git push -u origin [branch-name]
+```
+
+4. Create a pull request describing your changes.
+
+Alternatively, you can fork the repository on Github and issue a pull request from your fork of the repository.
