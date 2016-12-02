@@ -28,4 +28,4 @@ As a brand new group, we are open to your ideas for shaping our future meetups, 
 7:30 - 8:00   Meetup project introduction
 8:00 - 9:00  Build!
 
-A big thanks to [http://www.hub101.la/](Hub101) for hosting us!
+A big thanks to [Hub101](http://www.hub101.la) for hosting us!
