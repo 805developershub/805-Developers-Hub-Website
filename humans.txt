@@ -1,0 +1,15 @@
+# 805 Developers Hub
+
+## Built by
+
+- Cory Dransfeldt // coryd.me
+- Steve Meads
+- Brian Clements
+
+## Built with
+
+- Start Bootstrap
+- Jekyll
+- Atom
+- Hyper
+- iTerm

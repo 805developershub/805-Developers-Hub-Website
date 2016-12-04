@@ -5,7 +5,7 @@
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
+thumbs.db
 Thumbs.db
 
 # Log files          #
@@ -16,4 +16,7 @@ Thumbs.db
 # Jekyll build files #
 ######################
 
-_site/
+_site
+node_modules
+validation-report.json
+validation-status.json
