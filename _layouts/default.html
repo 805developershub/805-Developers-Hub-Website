@@ -4,19 +4,33 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{site.description}}"/>
-    <meta name="author" content="{{site.author}}"/>
-    <link rel="author" href="humans.txt"/>
 
-    <title>{{ site.name }} {% if page.title %} | {{ page.title }}{% endif %} </title>
+    <title>{{ site.name }} {% if page.title %} | {{ page.title }}{% endif %}</title>
+    <meta property="og:title" content="{{ site.name }} {% if page.title %} | {{ page.title }}{% endif %}"/>
+    <meta property="og:type" content="meetup"/>
+    <meta property="og:url" content="{{ site.url }}"/>
+    <meta property="og:site_name" content="{{ site.name }} {% if page.title %} | {{ page.title }}{% endif %}"/>
+    <meta name="author" content="{{ site.author }}"/>
+    <link rel="author" href="/humans.txt"/>
+    <meta name="description" content="{{site.description}}" />
+    <meta property="og:description" content="{{site.description}}"/>
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:site" value="{{ site.twitter_url }}">
+    <meta name="twitter:creator" value="{{ site.twitter_url }}">
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="{{ site.url }}">
 
     <!-- css -->
-    <link href="{{site.baseurl}}/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{site.baseurl}}/assets/css/landing-page.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/landing-page.css" rel="stylesheet">
 
     <!-- custom fonts -->
-    <link href="{{site.baseurl}}/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- icons -->
+    <link rel="apple-touch-icon" href="{{ "/assets/img/apple-touch-icon.png" | relative_url }}"/>
+    <meta property="og:image" content="{{ "/assets/img/fbogthumb.jpg" | relative_url }}"/>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -116,8 +130,8 @@
     </footer>
 
     <!-- js -->
-    <script src="{{site.baseurl}}/assets/js/jquery.js"></script>
-    <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
 
     <!-- google analytics -->
     <script>
