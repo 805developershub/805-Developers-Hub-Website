@@ -42,7 +42,7 @@ exclude: [README.markdown, package.json, node_modules]
 google_analytics_id: UA-88458304-1
 
 # Weekely meetup metadata
-meetup_date_text: January 26, 2017
+meetup_date_text: February 9, 2017
 meetup_location_text: Join us at Hub 101, 31416 Agoura Rd #105, Westlake Village, CA 91361
 meetup_description_text: We'll be working on personal projects and talking about all things code and development related.
 
