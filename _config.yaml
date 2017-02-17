@@ -42,7 +42,7 @@ exclude: [README.markdown, package.json, node_modules]
 google_analytics_id: UA-88458304-1
 
 # Weekely meetup metadata
-meetup_date_text: February 16, 2017
+meetup_date_text: February 23, 2017
 meetup_location_text: Join us at Hub 101, 31416 Agoura Rd #105, Westlake Village, CA 91361
 meetup_description_text: We'll be working on personal projects and talking about all things code and development related.
 
@@ -52,5 +52,6 @@ copyright_text: Copyright &copy; 805 Developers Hub. All Rights Reserved.
 # Social media urls
 twitter_url: https://twitter.com/805devhub
 github_url: https://github.com/805developershub
-meetup_url: https://www.meetup.com/LearnToCodeLA/
+meetup_url: https://www.meetup.com/LearnToCodeLA
 slack_url: https://slackin-qkkdtfdvoc.now.sh
+facebook_url: https://www.facebook.com/groups/free.code.camp.thousandoaks
