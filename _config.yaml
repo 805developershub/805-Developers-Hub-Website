@@ -2,7 +2,7 @@
 name: 805 Developers Hub
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: A language agnostic meetup for developers of all levels in the 805 area to learn and build software projects together.
+description: A meetup for developers of all levels in the 805 area to learn and build together.
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: 805 Developers Hub
@@ -44,7 +44,7 @@ google_analytics_id: UA-88458304-1
 # Weekely meetup metadata
 meetup_date_text: February 23, 2017
 meetup_location_text: Join us at Hub 101, 31416 Agoura Rd #105, Westlake Village, CA 91361
-meetup_description_text: We'll be working on personal projects and talking about all things code and development related.
+meetup_description_text: We'll be working on the freeCodeCamp curriculum and talking about all things tech. If your not familiar with freeCodeCamp click the image below, create an account, and get started on your own map!
 
 # Global copyright footer text
 copyright_text: Copyright &copy; 805 Developers Hub. All Rights Reserved.
