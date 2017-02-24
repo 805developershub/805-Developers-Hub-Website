@@ -53,6 +53,8 @@ h6 {
 
 .intro-divider {
     width: 400px;
+    margin-top: 30px;
+    margin-bottom: 32px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
@@ -131,13 +133,11 @@ h6 {
 }
 
 .banner-social-buttons {
-    float: right;
-    margin-top: 0;
+    margin-top: 50px;
 }
 
 @media(max-width:1199px) {
     ul.banner-social-buttons {
-        float: left;
         margin-top: 15px;
     }
 }
